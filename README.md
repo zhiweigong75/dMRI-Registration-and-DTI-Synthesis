@@ -1,7 +1,7 @@
 # Project II Instruction
 
 ## To run the Project_II_Run_Test.ipynb on the testset
-1. Download the Pretrained_Model_Weight folder. (link: https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/zgong9_jh_edu/EqTayqZGu1lGgOtRWtP1174BV3acxRvCWHxYTkvEHeLplw?e=GMqRr1)
+1. Download the Pretrained_Model_Weight folder. 
 2. Open Project_II_Run_Test.ipynb file.
 3. You should change the input_path, output_path, submit_path and submitted_path in the code
     - The input_path in the code should be: the path of each raw subject folder.
